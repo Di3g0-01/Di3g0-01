@@ -23,5 +23,5 @@ const developer = {
   focus: ["Full Stack Development", "Mobile Solutions", "UI/UX Architecture"],
   currentProject: "Mesa Departamental de Competitividad de Quetzaltenango",
   motto: "Transformando ideas complejas en interfaces intuitivas y código limpio.",
-  hobbies: ["Aprender nuevos frameworks", "Optimización de rendimiento", "Café ☕"]
+  hobbies: ["Aprender nuevos frameworks", "Optimización de rendimiento", "Deportes"]
 };
